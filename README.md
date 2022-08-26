@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Siddharth-kumar-nita
-- 👀 I’m interested in SU2, Python,C
-- 🌱 I’m currently learning SU2
-- 💞️ I’m looking to collaborate on SU2 and python
+- 👀 I’m interested in SQL, Python,C++
 - 📫 How to reach me siddharthsingh1713@gmail.com
 
 <!---
